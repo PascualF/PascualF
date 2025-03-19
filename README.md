@@ -1,5 +1,13 @@
-## Hi there 👋
+# Pascual Felicio
 
+**`Digital Craftsman`**
+
+### Hi there 👋...
+...I'm a mechanical engineer transitioning into the world of software development. My background in engineering has given me string foundation in problem-solving, logical thinking, precision, and planning, which I now apply to coding. I'm passioante about full-stack web development and software engineering, building projects from scratch to solve real-world problems.
+
+💡 Let's build something!
+
+---
 <!--
 **PascualF/PascualF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
