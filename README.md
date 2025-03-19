@@ -8,6 +8,26 @@
 💡 Let's build something!
 
 ---
+
+### Languages and Tools
+
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+--
+
+<!--
+<details>
+  <summary><h3>My Coding Journey</h3>
+    I started to code during my mechanical engineering course, it all started with some basic VBA, for simulations, jumping fast to python, I saw that I was quite good at it, but did continue with my journey as a mechanical engineer, ended up working as a mechanical design engineer, mixing calculation, design and creativity.
+  </summary>
+</details>
+-->
+
 <!--
 **PascualF/PascualF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
