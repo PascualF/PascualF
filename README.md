@@ -18,8 +18,6 @@
 <img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Javascript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
----
-
 <!--
 <details>
   <summary><h3>My Coding Journey</h3>
