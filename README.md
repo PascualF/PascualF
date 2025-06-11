@@ -22,7 +22,7 @@
 
 ### My Portfolio
 
-[a link](https://pascualdev.netlify.app/)
+[Pascual's (My) Portfolio](https://pascualdev.netlify.app/)
 
 <!--
 <details>
