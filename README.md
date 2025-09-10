@@ -3,7 +3,7 @@
 **`Digital Craftsman`**
 
 ### Hi there 👋...
-...I'm a mechanical engineer with a hobby in the world of software development. My background in engineering has given me string foundation in problem-solving, logical thinking, precision, and planning, which I now apply to coding. I'm passionate about full-stack web development and software engineering, building projects from scratch to solve real-world problems.
+...I'm a mechanical engineer with a hobby in the world of software development. My background in engineering has given me strong foundation in problem-solving, logical thinking, precision, and planning, which I now apply to coding. I'm passionate about full-stack web development and software engineering, building projects from scratch to solve real-world problems.
 
 💡 Let's build something!
 
@@ -32,7 +32,7 @@
 <!--
 <details>
   <summary><h3>My Coding Journey</h3>
-    I started to code during my mechanical engineering course, it all started with some basic VBA, for simulations, jumping fast to python, I saw that I was quite good at it, but did continue with my journey as a mechanical engineer, ended up working as a mechanical design engineer, mixing calculation, design and creativity.
+    I started coding during my mechanical engineering course. It all began with some basic VBA for simulations, and then I quickly transitioned to Python. I realized I was quite good at it. Still, I did continue with my journey as a mechanical engineer, ended up working as a mechanical design engineer, mixing calculation, design and creativity.
   </summary>
 </details>
 -->
