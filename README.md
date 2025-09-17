@@ -1,6 +1,6 @@
 # Pascual Felicio
 
-**`Digital Craftsman`**
+**`Craftsman`**
 
 ### Hi there 👋...
 ...I'm a mechanical engineer with a hobby in the world of software development. My background in engineering gives me strong foundation in problem-solving, logical thinking, precision, and planning, which I now apply to coding. I'm passionate about software engineering, building projects from scratch to solve real-world problems.
