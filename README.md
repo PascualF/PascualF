@@ -3,7 +3,7 @@
 **`Mechanical Engineer: Data Analyst`**
 
 ### Hi there 👋...
-...I'm a mechanical engineer: data analyst with a hobby in the world of software development. My background in engineering (design and simulation) gives me strong foundation in data understanding, problem-solving, logical thinking, precision, and planning, which I now apply to what I do personally and professionally all the time.. I'm passionate building stuff from scratch to solve real-world problems.
+...I'm a electromechanical engineer with a hobby in the world of software development. My background in engineering (design and simulation) gives me strong foundation in data understanding, problem-solving, logical thinking, precision, and planning, which I now apply to what I do personally and professionally all the time.. I'm passionate building stuff from scratch to solve real-world problems.
 
 💡 Let's build something!
 
@@ -38,8 +38,6 @@
 
 <!--
 **PascualF/PascualF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
