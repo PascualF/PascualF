@@ -3,7 +3,7 @@
 **`Electromechanical Engineer: Data Engineer`**
 
 ### Hi there 👋...
-...I'm a electromechanical engineer with a hobby in the world of software development. My background in engineering (design and simulation) gives me strong foundation in data understanding, problem-solving, logical thinking, precision, and planning, which I now apply to what I do personally and professionally all the time.. I'm passionate building stuff from scratch to solve real-world problems.
+...I'm a electromechanical engineer with a hobby in the world of data. My background in engineering (design and simulation) gives me strong foundation in data understanding, problem-solving, logical thinking, precision, and planning, which I now apply to what I do personally and professionally all the time.. I'm passionate building stuff from scratch to solve real-world problems.
 
 💡 Let's build something!
 
